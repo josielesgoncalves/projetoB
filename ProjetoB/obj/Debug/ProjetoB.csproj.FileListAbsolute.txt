@@ -1,0 +1,110 @@
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe.config
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\bin\Debug\ProjetoB.pdb
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csprojResolveAssemblyReference.cache
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Form1.resources
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Properties.Resources.resources
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.GenerateResource.Cache
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe
+C:\Users\18562421\Desktop\ProjetoB\ProjetoB\obj\Debug\ProjetoB.pdb
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe.config
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\bin\Debug\ProjetoB.pdb
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csprojResolveAssemblyReference.cache
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Home.resources
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Login.resources
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Register.resources
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Properties.Resources.resources
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.GenerateResource.cache
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe
+C:\Users\18223487\Desktop\Versão 0\ProjetoB\ProjetoB\obj\Debug\ProjetoB.pdb
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csprojResolveAssemblyReference.cache
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.CalorieControl.resources
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Home.resources
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Login.resources
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Profile.resources
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Register.resources
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Properties.Resources.resources
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.GenerateResource.cache
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe
+C:\Users\18223487\Downloads\Versão 1\ProjetoB\ProjetoB\obj\Debug\ProjetoB.pdb
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe.config
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\bin\Debug\ProjetoB.pdb
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csprojResolveAssemblyReference.cache
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.CalorieControl.resources
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Home.resources
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.InsertFood.resources
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Login.resources
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Profile.resources
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Register.resources
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Properties.Resources.resources
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.GenerateResource.cache
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe
+C:\Users\18223487\Downloads\Versão 2\ProjetoB\ProjetoB\obj\Debug\ProjetoB.pdb
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe.config
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\bin\Debug\ProjetoB.pdb
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csprojResolveAssemblyReference.cache
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.CaloriasSobMedida.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.CalorieControl.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Home.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.InsertFood.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Login.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Profile.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Register.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Properties.Resources.resources
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.GenerateResource.cache
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe
+C:\Users\18223487\Downloads\Versão 4\ProjetoB\ProjetoB\obj\Debug\ProjetoB.pdb
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe.config
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\bin\Debug\ProjetoB.pdb
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csprojResolveAssemblyReference.cache
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.AtualizaSenha.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.CalculoIMC.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.CaloriasSobMedida.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.CalorieControl.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.Container.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Home.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Login.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Profile.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Register.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Properties.Resources.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.UsuariosBloqueados.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.UsuariosExcluidos.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.UsuariosNormais.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.GenerateResource.cache
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\Versão 4 josi\ProjetoB\ProjetoB\obj\Debug\ProjetoB.pdb
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.AtualizaSenha.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.CalculoIMC.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.CaloriasSobMedida.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.CalorieControl.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.Container.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Home.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Login.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Profile.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Register.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.Properties.Resources.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.UsuariosBloqueados.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.UsuariosExcluidos.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.View.UsuariosNormais.resources
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.GenerateResource.cache
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.pdb
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe.config
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\bin\Debug\ProjetoB.pdb
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.csprojResolveAssemblyReference.cache
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\bin\Debug\ProjetoB.exe.manifest
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\bin\Debug\ProjetoB.application
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.exe.manifest
+C:\Users\Josiele\Faculdade\PUC\2018.2\Projeto B\ProjetoB\ProjetoB\obj\Debug\ProjetoB.application
